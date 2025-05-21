@@ -8,3 +8,4 @@ statsmodels
 copulas
 pyvinecopulib
 tqdm
+arch
