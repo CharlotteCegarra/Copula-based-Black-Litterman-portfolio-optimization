@@ -57,6 +57,7 @@ Ce script :
 /requirements.txt               # Dépendances Python
 /Sahamkhadam Stephan Ostermark  # Papier
 /Rapport                        # Rapport du projet
+/Présentation                   # Présentation du projet
 
 /Code                        # Scripts utilisés dans le main
    ├── __init__.py
